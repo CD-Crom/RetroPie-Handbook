@@ -1,10 +1,13 @@
 # Uploading ROMS
 
-## Command Line
+## Connection
 Connect via sftp using the default credentials for RaspberryPi:
 
-* *user*: pi
-* *password*: raspberry
+* **user**: pi
+* **password**: raspberry
+* **port**: 22
+
+## Directory
 
 Then upload the file or files to the directory `/home/pi/RetroPie/roms/{system}/` where system
 is one from the following list:
