@@ -3,9 +3,10 @@
 ## Connection
 Connect via sftp using the default credentials for RaspberryPi:
 
-* **user**: pi
-* **password**: raspberry
-* **port**: 22
+* **Server**: 192.168.0.3
+* **User**: pi
+* **Password**: raspberry
+* **Port**: 22
 
 ## Directory
 
